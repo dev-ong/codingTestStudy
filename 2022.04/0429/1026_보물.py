@@ -11,3 +11,5 @@ for i in range(n):
     s += sorted_a[i] * sorted_b[i]
 
 print(s)
+
+#ㅗ
